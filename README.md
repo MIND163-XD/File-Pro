@@ -22,9 +22,9 @@ Ok Id Clone Just Now Login Old & New Id 🔥🔥
  
  rm -rf FILE-PRO
 
- git clone https://github.com/SABBIR404-CYBER/FILE-PRO
+ git clone https://github.com/SABBIR404-CYBER/File-Pro
 
- cd FILE-PRO
+ cd File-Pro
 
  python FILE-PRO.py
 
