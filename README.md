@@ -5,6 +5,7 @@
 
 Ok Id Clone Just Now Login Old & New Id 🔥🔥
 
+
  pkg update
 
  pkg upgrade
@@ -26,6 +27,7 @@ Ok Id Clone Just Now Login Old & New Id 🔥🔥
  cd FILE-PRO
 
  python FILE-PRO.py
+
 
 
 (Note: This One Paid Tools, So You Take First Approval) 
