@@ -18,13 +18,12 @@
  
  rm -rf FILE-PRO
 
- 
-
-
-
-#Run Script
 git clone https://github.com/SABBIR404-CYBER/File-Pro
 
  cd File-Pro
 
  python FILE-PRO.py
+
+
+
+(This One Paid Tools, So You Take First Approval) 
