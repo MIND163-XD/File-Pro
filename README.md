@@ -18,7 +18,7 @@
  
  rm -rf FILE-PRO
 
-git clone https://github.com/SABBIR404-CYBER/File-Pro
+git clone https://github.com/MIND163-XD/File-Pro
 
  cd File-Pro
 
